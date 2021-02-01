@@ -1,2 +1,3 @@
-# fim-shot-react-native
+# film-shot-react-native
+
 Film Shot Social Platform Mobile App
